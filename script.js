@@ -2,8 +2,7 @@
 let firstName = 'Somadina'
 let lastName = 'Okafor'
 let fullName = firstName + ' ' + lastName 
-let introduction = 'Hello my name is'
-let a = introduction + ' ' + fullName
+let introduction = 'Hello my name is' + ' ' + fullName
 let myEyesColor = 'blue'
 let myHairColor = 'black'
 let myNumberOfSiblings = '2'

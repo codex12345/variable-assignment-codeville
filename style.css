@@ -1,0 +1,54 @@
+section {
+    background-color: rgb(243, 243, 172);
+    padding: 10px;
+}
+
+#introduction {
+    font-family: 'Cormorant SC', serif;
+    color: aquamarine;
+    background-color: rgb(47, 14, 78);
+    font-size: 1.2em;
+    margin-bottom: 1em;
+    padding: 0.5em;
+}
+
+#my-hair-color {
+    color: rgb(186, 233, 217);
+    background-color: rgb(92, 3, 30);
+    font-size: 1.2em;
+    margin-bottom: 1em;
+    padding: 0.5em;
+
+}
+
+#my-number-of-siblings {
+    color: gold;
+    background-color: black;
+    font-family: 'Cormorant SC', serif;
+    margin-bottom: 1em;
+    padding: 0.5em;
+    font-size: 1.2em;
+
+}
+
+#my-favourite-food {
+    text-shadow: 3px;
+    font-family: 'Cormorant SC', serif;
+    margin-bottom: 1em;
+    padding: 0.5em;
+    background-image: linear-gradient(to left, navy, teal);
+    color: aquamarine;
+    font-size: 1.2em;
+}
+
+#my-favourite-color {
+    text-shadow: 3px;
+    font-family: 'Cormorant SC', serif;
+    margin-bottom: 1em;
+    padding: 0.5em;
+    background-image: linear-gradient(to left, navy, orange);
+    color: aquamarine;
+    font-size: 1.2em;
+
+
+}
